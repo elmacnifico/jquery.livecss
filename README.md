@@ -7,12 +7,8 @@ so far i only tested it on webkit.
 ## dependencies
 jquery 1.4+
 
-## installation
-
-simply load
-```
-&lt;script type=&quot;text/javascript&quot; src=&quot;jquery.livecss.js&quot;&gt;&lt;/script&gt;
-```
+## usage
+see index.html for example
 
 ## License
 jquery.livecss is released under the MIT license:
