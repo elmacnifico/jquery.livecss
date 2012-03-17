@@ -11,9 +11,8 @@ jquery 1.4+
 
 simply load
 ```
-<script type="text/javascript" src="jquery.livecss.js"></script>
+&lt;script type=&quot;text/javascript&quot; src=&quot;jquery.livecss.js&quot;&gt;&lt;/script&gt;
 ```
-
 
 ## License
 jquery.livecss is released under the MIT license:
