@@ -12,4 +12,4 @@ see index.html for example
 
 ## License
 jquery.livecss is released under the MIT license:
-(www.opensource.org/licenses/MIT](www.opensource.org/licenses/MIT)
+[www.opensource.org/licenses/MIT](www.opensource.org/licenses/MIT)
